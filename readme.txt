@@ -1,5 +1,3 @@
 Starting a new project!
 
-New information coming in 
-
-These changes need to be commited to git
+The analysis.py prints out the string "Hello World!"
